@@ -45,7 +45,7 @@ root@65b86c4270e1:/#
 ```
 Now connect to MariaDB using this command:
 ```
-root@65b86c4270e1:/# mysql -u root -ppassword        <return>
+root@65b86c4270e1:/# mysql -uroot -ppassword        <return>
 ```
 You should be logged in to MariaDB now:
 ```
